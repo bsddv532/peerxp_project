@@ -1,0 +1,22 @@
+.InternalLinkContainer{
+    box-shadow: 5px 5px 20px grey;
+    border-radius: 10px;
+    width: 650px;
+    height: 550px;
+    padding: 20px;
+    margin: 50px auto 0px auto;
+
+}
+
+.InternalLinkContainer .p1{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px 0px 20px 0px;
+}
+
+.InternalLinkContainer .p2{
+    font-size: 16px;
+    padding: 5px;
+    text-align: left;
+
+}

@@ -41,7 +41,7 @@ const options = {
 };
 
 const Chart = () => {
-    const [data, setData] = useState({
+    const [data ] = useState({
         labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Set', 'Oct', 'Nov', 'Dec'],
         datasets: [
             {

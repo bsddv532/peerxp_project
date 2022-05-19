@@ -1,0 +1,28 @@
+.postPageContainer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.MetaContainer{
+    width: 450px;
+    height: 550px;
+    color: black;
+    margin-top: 20px;
+    box-shadow: 5px 5px 20px grey;
+    border-radius: 10px;
+    padding-top: 30px;
+}
+
+.MetaContainer .subContainer{
+    text-align: left;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.MetaContainer .subContainer p{
+    font-size: 16px;
+    padding: 3px;
+
+}
